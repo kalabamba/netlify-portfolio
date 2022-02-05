@@ -1,12 +1,10 @@
-import logo from './logo.svg';
-import './App.css';
-
-function App() {
+import "./style.css";
+import ComingSoon from "./component/comingSoon";
+export default function App() {
   return (
     <div className="App">
-      <h1>Deneme</h1>
+      
+      <ComingSoon />
     </div>
   );
 }
-
-export default App;
