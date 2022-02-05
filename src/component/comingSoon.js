@@ -1,9 +1,12 @@
+import "./comingSoon.css"
 
 export default function ComingSoon() {
 
   return (
     <>
-      <h1>Test</h1>
+        <div className="underBox">
+            <h1>Under Maintenance</h1>
+        </div>
     </>
   );
 }

@@ -1,0 +1,22 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    background:#121212;
+}
+.underBox{
+    width:fit-content;
+    height:auto;
+    padding:6px 8px;
+    font-family: helvetica, arial, sans-serif;
+    color:#fafafa;
+    background:#222222;
+    border-radius: 6px;
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    -ms-border-radius: 6px;
+    -o-border-radius: 6px;
+    margin:0 auto;
+    margin-top:50px;
+}
